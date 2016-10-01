@@ -309,8 +309,7 @@ function Anchorer() {
 			timeout: 'a-timeout',
 			clear: 'a-clear',
 			cache: 'a-cache',
-			default: 'a-default',
-			destroy:'a-destroy'
+			default: 'a-default'
 		};
 	}
 
